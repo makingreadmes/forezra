@@ -1,17 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="400" viewBox="0 0 2000 400">
-  <rect width="100%" height="100%" fill="transparent"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Arial, Helvetica, sans-serif" font-size="220" font-weight="700" fill="#111">
-    lay   low
-  </text>
-</svg>
+
+<div align="center">
+  <h1> Ｒ Ｏ Ｔ Ｔ Ｅ Ｎ &nbsp;&nbsp; Ｍ Ｕ Ｆ Ｆ Ｉ Ｎ</h1>
+</div>
 
 
-<p align="center"> <H1> Ｒ Ｏ Ｔ Ｔ Ｅ Ｎ &nbsp;&nbsp; Ｍ Ｕ Ｆ Ｆ Ｉ Ｎ </p>
+  
+<div align="center">  <img width="807" height="1080" alt="IMG_6539" src="https://github.com/user-attachments/assets/358c2ed0-c94c-4a67-a753-47d9af32cf9c" />
 
-<H4> <img width="1812" height="368" alt=" image code " />
 
+ </div>
 
+ <br /> <div align="center"> ~ ♡ <img src="https://komarev.com/ghpvc/?username=rottenmuffin&color=b22020&style=flat-square&label=..𝐦𝐮𝐟𝐟𝐢𝐧𝐬." alt="profile views" style="max-width:100%;"> ♡ ~ </div>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
